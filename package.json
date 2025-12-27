@@ -1,0 +1,17 @@
+{
+  "name": "Broadcas-bot-telegram",
+  "version": "1.0.0",
+  "description": "Author : @PraiOfficial",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "telegraf": "^4.12.2",
+    "node-cron": "^3.0.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  }
+}
